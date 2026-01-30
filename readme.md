@@ -1,3 +1,7 @@
+## Site View
+
+Link: https://pofranz.github.io
+
 # HTML and CSS Fundamentals
 
 ## Setup
@@ -11,3 +15,4 @@ git clone https://github.com/craigshoemaker/html-css-fundamentals
 ```
 
 - Once the files are on your machine, open the _html-css-fundamentals_ folder in [Visual Studio Code](https://code.visualstudio.com/).
+
